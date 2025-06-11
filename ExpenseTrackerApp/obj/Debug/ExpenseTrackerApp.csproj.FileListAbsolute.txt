@@ -28,3 +28,4 @@ C:\Users\Дом\source\repos\ExpenseTrackerApp\ExpenseTrackerApp\bin\Debug\LiveC
 C:\Users\Дом\source\repos\ExpenseTrackerApp\ExpenseTrackerApp\obj\Debug\ExpenseT.3780D087.Up2Date
 C:\Users\Дом\source\repos\ExpenseTrackerApp\ExpenseTrackerApp\obj\Debug\ExpenseTrackerApp.exe
 C:\Users\Дом\source\repos\ExpenseTrackerApp\ExpenseTrackerApp\obj\Debug\ExpenseTrackerApp.pdb
+C:\Users\Дом\source\repos\ExpenseTrackerApp\ExpenseTrackerApp\obj\Debug\ExpenseTrackerApp.exe.config
